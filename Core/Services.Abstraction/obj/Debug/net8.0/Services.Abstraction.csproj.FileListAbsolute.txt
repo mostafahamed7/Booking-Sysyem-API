@@ -1,0 +1,17 @@
+C:\Users\mosta\Desktop\API\Hotel_Reservation_System_Solution\Core\Services.Abstraction\bin\Debug\net8.0\Services.Abstraction.deps.json
+C:\Users\mosta\Desktop\API\Hotel_Reservation_System_Solution\Core\Services.Abstraction\bin\Debug\net8.0\Services.Abstraction.dll
+C:\Users\mosta\Desktop\API\Hotel_Reservation_System_Solution\Core\Services.Abstraction\bin\Debug\net8.0\Services.Abstraction.pdb
+C:\Users\mosta\Desktop\API\Hotel_Reservation_System_Solution\Core\Services.Abstraction\bin\Debug\net8.0\Shared.dll
+C:\Users\mosta\Desktop\API\Hotel_Reservation_System_Solution\Core\Services.Abstraction\bin\Debug\net8.0\Shared.pdb
+C:\Users\mosta\Desktop\API\Hotel_Reservation_System_Solution\Core\Services.Abstraction\obj\Debug\net8.0\Services.Abstraction.csproj.AssemblyReference.cache
+C:\Users\mosta\Desktop\API\Hotel_Reservation_System_Solution\Core\Services.Abstraction\obj\Debug\net8.0\Services.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosta\Desktop\API\Hotel_Reservation_System_Solution\Core\Services.Abstraction\obj\Debug\net8.0\Services.Abstraction.AssemblyInfoInputs.cache
+C:\Users\mosta\Desktop\API\Hotel_Reservation_System_Solution\Core\Services.Abstraction\obj\Debug\net8.0\Services.Abstraction.AssemblyInfo.cs
+C:\Users\mosta\Desktop\API\Hotel_Reservation_System_Solution\Core\Services.Abstraction\obj\Debug\net8.0\Services.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\mosta\Desktop\API\Hotel_Reservation_System_Solution\Core\Services.Abstraction\obj\Debug\net8.0\Services.4D1A1826.Up2Date
+C:\Users\mosta\Desktop\API\Hotel_Reservation_System_Solution\Core\Services.Abstraction\obj\Debug\net8.0\Services.Abstraction.dll
+C:\Users\mosta\Desktop\API\Hotel_Reservation_System_Solution\Core\Services.Abstraction\obj\Debug\net8.0\refint\Services.Abstraction.dll
+C:\Users\mosta\Desktop\API\Hotel_Reservation_System_Solution\Core\Services.Abstraction\obj\Debug\net8.0\Services.Abstraction.pdb
+C:\Users\mosta\Desktop\API\Hotel_Reservation_System_Solution\Core\Services.Abstraction\obj\Debug\net8.0\ref\Services.Abstraction.dll
+C:\Users\mosta\Desktop\API\Hotel_Reservation_System_Solution\Core\Services.Abstraction\bin\Debug\net8.0\Domain.dll
+C:\Users\mosta\Desktop\API\Hotel_Reservation_System_Solution\Core\Services.Abstraction\bin\Debug\net8.0\Domain.pdb
