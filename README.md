@@ -76,6 +76,6 @@ Make sure you have installed:
 ## 👨‍💻 Author
 Developed by **Mostafa Hamed**  
 
-- 📧 Email: [your.email@example.com](mostfahmed770@gmail.com)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/mostafa-hamed-82532423b/)  
-- 🐙 GitHub: [https://github.com/mostafahamed7](https://github.com/mostafahamed7) 
+- 📧 Email: [@mostafahamed](mostfahmed770@gmail.com)  
+- 💼 LinkedIn: [Mostafa Hamed](https://www.linkedin.com/in/mostafa-hamed-82532423b/)  
+- 🐙 GitHub: [mostafahamed7](https://github.com/mostafahamed7) 
